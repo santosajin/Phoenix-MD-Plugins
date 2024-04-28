@@ -2,7 +2,7 @@
 <div align="center">
 𝙷𝙾𝚆 𝚃𝙾 𝙸𝙽𝚂𝚃𝙰𝙻𝙻 𝙿𝙻𝚄𝙶𝙸𝙽𝚂 : 𝙿𝙻𝚄𝙶𝙸𝙽 <𝙿𝙻𝚄𝙶𝙸𝙽 𝙻𝙸𝙽𝙺> <br>
 𝙷𝙾𝚆 𝚃𝙾 𝙲𝙷𝙴𝙲𝙺 𝙸𝙽𝚂𝚃𝙰𝙻𝙻𝙴𝙳 𝙿𝙻𝚄𝙶𝙸𝙽𝚂 : 𝙻𝙸𝚂𝚃𝙿𝙻𝚄𝙶𝙸𝙽 <br>
-𝙷𝙾𝚆 𝚃𝙾 𝚁𝙴𝙼𝙾𝚅𝙴 𝙿𝙻𝚄𝙶𝙸𝙽𝚂 : 𝚁𝙴𝙼𝙾𝚅𝙴 <𝙿𝙻𝚄𝙶𝙸𝙽 𝙽𝙰𝙼𝙴>
+𝙷𝙾𝚆 𝚃𝙾 𝚁𝙴𝙼𝙾𝚅𝙴 𝙿𝙻𝚄𝙶𝙸𝙽𝚂 : 𝚁𝙴𝙼𝙾𝚅𝙴 <santo santo>
 <br>
 
 <h4 align="center"> Need Plugins? Tell Me What Plugins Need As A Issue On This Repo </h1>
